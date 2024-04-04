@@ -10,6 +10,7 @@ Impedimento de Duplicidade: O sistema verifica se informações cadastradas, com
 >Backend: Spring Boot (Java)
 </br>Banco de dados: HSQLDB
 </br>Ferramenta Migration: FlyWay-core
+</br>Controle de Dependencias : Maven
 </br>Controle de versão: Git
 
 Benefícios: 
